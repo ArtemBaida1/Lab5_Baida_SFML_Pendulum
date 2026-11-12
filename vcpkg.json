@@ -1,0 +1,8 @@
+{
+  "name": "pendulum-sim",
+  "version-string": "1.0.0",
+  "dependencies": [
+    "sfml"
+  ],
+  "builtin-baseline": "8469b01206bff843500592f18dcab88b13331da6"
+}
